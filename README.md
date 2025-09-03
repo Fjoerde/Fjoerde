@@ -1,6 +1,7 @@
 Theoretical Physics student at Imperial College London.
 
 Currently learning: Python
+
 Learning queue: C++, Fortran 90, Haskell, Mathematica, C, x86 Assembly
 
 <!---
