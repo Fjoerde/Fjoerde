@@ -1,7 +1,8 @@
 Theoretical Physics student at Imperial College London. I mainly do computing for my degree or related physical computing projects, and a lot of math.
 
 Currently learning:
-- Python  
+- Python
+
 Learning queue:
 - C++
 - Fortran 90
